@@ -22,7 +22,7 @@ exclude:
   - README.md
 
 sass:
-  sass_dir: _sass
+  sass_dir: mvp.github.io/_sass
   style: :compressed
 
 # Options
